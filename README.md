@@ -1,4 +1,4 @@
-# Customer-Segmentation-Clustering-Engine
+# Clustering-Engine
 ### Clustering wikipedia articles
 
 ![final cluster](https://user-images.githubusercontent.com/39884389/44083875-c8f28116-9fd2-11e8-97ca-03c4ec6d1461.png)
